@@ -1,5 +1,5 @@
 # reading-notes
-## growth mindset
+## Growth mindset
 ![](https://metrifit.com/wp-content/uploads/2020/08/growthmindsetlandscape.jpg)
 ***the growth mindset is the correct way to develop yourself by working hard face the challenges not run form them 
 and in the growth mindset intelligence and talent are simply good starting points not like the fixed mindset which depend on them to sucsess.
