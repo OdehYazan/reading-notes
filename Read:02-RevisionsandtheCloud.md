@@ -1,0 +1,3 @@
+# Read: 02 - Revisions and the Cloud
+### Today we learn how to program in markdown which is a way other than HTML to control the text and content in your web .we learn to work in GitHub which is a website allow you to share your work with other programmer in easy way help working to gather and learning from each other . We use other website to edit the files and import them in GitHub.
+[Reading-notes](https://odehyazan.github.io/reading-notes/)
