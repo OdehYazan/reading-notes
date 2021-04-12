@@ -1,7 +1,7 @@
 # reading-notes
 ## Name: Yazan Odeh 
 ## Major: Computer Engineering
-## GitHub : https://github.com/OdehYazan 
+## GitHub : [https://github.com/OdehYazan](https://github.com/OdehYazan)
  
  |Readings |
  |--------|
