@@ -8,5 +8,8 @@ in th end you will find the growth mindset is the life style to get smarter.***
 1. >Face the challanges :facepunch:
 2. >Never quit :v:
 3. >learn from mistakes :+1:
-
-[Read:01-Learning Markdown](https://odehyazan.github.io/reading-notes/Read:01-LearningMarkdown)
+ 
+ |Readings |
+ |--------|
+|[Read01](https://odehyazan.github.io/reading-notes/Read:01-LearningMarkdown)|
+|[Read02](https://odehyazan.github.io/reading-notes/Read:02-RevisionsandtheCloud)|
