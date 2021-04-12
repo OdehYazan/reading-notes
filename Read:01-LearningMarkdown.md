@@ -2,7 +2,7 @@
 
 ## Markdown
 ## is easy way to style your text and content on your web by characters and symbols 
-## and the extension should be .md or .markdown i will give an exampl :
+## and the extension should be .md or .markdown i will give an example :
 ### adding ** before and after any word or text it will change to bold
 This **word** is bold
 
