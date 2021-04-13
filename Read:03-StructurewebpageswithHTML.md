@@ -5,7 +5,7 @@
  ### HTML version can be indicated by doctypes and we can put our comments in the code t make it easier to read it . we learned how to add a comment to our code , how to use attributes to edit elements or particular one and how to group elements using <div> or <span>. iframe used to open window in your webpage and escape characters Adding characters to web page.
 
 ## CH 17 
-### <div> it was very confusing using this element in the past but the HTML5 we have now more elements with clear definitions to make my code more easy to understand and to work with CSS. There is older browser can't understand HTML5 so we need to put 
+### div it was very confusing using this element in the past but the HTML5 we have now more elements with clear definitions to make my code more easy to understand and to work with CSS. There is older browser can't understand HTML5 so we need to put 
 (header, section, footer, aside, nav, article, figure 
 {display: block;} so the consider them as blocks not inline elements.
 
