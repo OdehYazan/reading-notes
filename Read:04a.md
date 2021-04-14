@@ -1,0 +1,5 @@
+# Read: 04a - Dynamic web pages with JavaScript
+[Readings-notes](https://odehyazan.github.io/reading-notes)
+### progressive enhancement is the way  where the three layers work to create ,shape and make your webpage interact ,the three layers refer in order to HTML,CSS,JS and how they depend on each other, you need to know that keep the js scripts separate from the HTML code in folder is better even if you are looking in the source code the changes js do will not appear in the source because the script works with the model of the web page that the browser has created.
+
+### Variables we use them to store our data with different data type like number, string and other , there is rules for the variables creating( and for assigning values to them ,  like when you name the variable it should not start with number or start with reserved key word, we can change the variables values no matter if the array or noraml.
