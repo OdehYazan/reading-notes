@@ -10,5 +10,5 @@
 |[Read04a](https://odehyazan.github.io/reading-notes/Read:04a)|  [Read:04b](https://odehyazan.github.io/reading-notes/Read:04b)|
 |[Read05](https://odehyazan.github.io/reading-notes/Read:05)|[Read06](https://odehyazan.github.io/reading-notes/Read:06) |
 |[Read05](https://odehyazan.github.io/reading-notes/Read:05)|[Read06](https://odehyazan.github.io/reading-notes/Read:06) |
-|[Read07](https://odehyazan.github.io/reading-notes/Read:07)|
+|[Read07](https://odehyazan.github.io/reading-notes/Read:07)|[Read09](https://odehyazan.github.io/reading-notes/Read:09)|
 
