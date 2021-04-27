@@ -19,3 +19,4 @@
  |--------|--------|
  |Read:01|[Introductory HTML and JavaScript](https://odehyazan.github.io/reading-notes/201/class-01)|
  |Read:02|[HTML Text,CSS Introduction,and Basic JavaScript Instructions](https://odehyazan.github.io/reading-notes/201/class-02)|
+ |Class-03|[HTML Lists, Control Flow with JS, and the CSS Box Model](https://odehyazan.github.io/reading-notes/201/class-03)
