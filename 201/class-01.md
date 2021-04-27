@@ -10,13 +10,13 @@ meaning,Tags usually come in pairs. The opening tag an closing tag in them we ha
 
 ## Extra Markup
 
-***we need to know about some things like  DOCTYPES tell browsers which version of HTML you are using, You can add comments to your code between the <!--.....--> and in html id and class attributes allow you to identify particular elements or grope them to do changes like CSS style,The <div> and <span> elements allow you to group block-level and inline elements together but the <meta> tag allows you to supply all kinds of information about your web page.***
+***we need to know about some things like  DOCTYPES tell browsers which version of HTML you are using, You can add comments to your code between the `<!--.....-->` and in html id and class attributes allow you to identify particular elements or grope them to do changes like CSS style,The `<div>` and `<span>` elements allow you to group block-level and inline elements together but the `<meta>` tag allows you to supply all kinds of information about your web page.***
 
 ## HTML5 Layout
 
 ***The new HTML5 elements use to defined
 different parts of a web page and help to describe
-its structure,the new elements provide clearer code (like the header ,body and footer instead of using multiple <div> elements ) but Older browsers do not understand HTML5 elements so  we need to identify the block-level elements, we have older IE do not understand HTML5 so we need extra JS available in google.***
+its structure,the new elements provide clearer code (like the header ,body and footer instead of using multiple `<div>` elements ) but Older browsers do not understand HTML5 elements so  we need to identify the block-level elements, we have older IE do not understand HTML5 so we need extra JS available in google.***
 
 ## Process & Design
 
