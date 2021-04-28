@@ -6,7 +6,7 @@
 
 ### HTML links are hyperlinks you can click on the link and move to part of the page or to new page the link can be a text, image or any other elements from HTML
 
-### Who we can write the links ?
+### How we can write the links ?
 
 #### to create link we use `<a>` element opening `<a>` tag and the closing `</a>` tag the page and we use `href` to specify the page
 
