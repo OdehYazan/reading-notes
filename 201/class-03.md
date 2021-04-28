@@ -1,3 +1,5 @@
+[Reading-notes](https://odehyazan.github.io/reading-notes)
+
 # HTML Lists, Control Flow with JS, and the CSS Box Model
 
 ## HTML Lists
@@ -24,5 +26,5 @@
 |Lists |Elemnts (Creats lists) | Tags(Contain list items)|
 |-------|-------|-------|
 |Orderd list |`<ol>` `</ol>`|`<li>` `</li>`|
-|Unorderd list|`<ul>` `<ul>`|`<li>` `</li>`|
+|Unordered list|`<ul>` `<ul>`|`<li>` `</li>`|
 |Definition lists|`<dl>` `</dl>`|Definition term `<dt>` `</dt>` <br> Contain defintion `<dd>` `</dd>`|
