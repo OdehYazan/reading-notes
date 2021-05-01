@@ -38,6 +38,7 @@ between any text and the background color, we have also the RGBA (an extra value
 
 **There are properties to control the choice of font, size,
 weight, style, and spacing.**
+
 **1. ***Font-family*** property allows you to specify the typeface that should be used for any text inside the element(s) to which a CSS rule applies.<br> 2. ***Font-size*** property enables you to specify a size for the font by using pixels, percentages or ems ( em is equivalent to the width of a letter m).**
 
 ***Units of Type Size:***
