@@ -22,4 +22,5 @@
  |Read:03|[HTML Lists, Control Flow with JS, and the CSS Box Model](https://odehyazan.github.io/reading-notes/201/class-03)|
  |Read:04|[HTML Links, JS Functions, and Intro to CSS Layout](https://odehyazan.github.io/reading-notes/201/class-04)
  |Read:05|[HTML Images; CSS Color & Text](https://odehyazan.github.io/reading-notes/201/class-05)
- |Read-06|[JS Object Literals; The DOM](https://odehyazan.github.io/reading-notes/201/class-06)
+ |Read:06|[JS Object Literals; The DOM](https://odehyazan.github.io/reading-notes/201/class-06)
+ |Read:07|[Object-Oriented Programming, HTML Tables](https://odehyazan.github.io/reading-notes/201/class-07)
