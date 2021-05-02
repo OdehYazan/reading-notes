@@ -20,3 +20,14 @@
 **We can access the object by using something called DOT Notation.**
 ![img](../img/accessO.jpg)
 
+## The Document Object Model (DOM)
+ 
+ **DOM specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window, The DOM is neither part of HTML, nor part of JavaScript it is a separate set of rules it is implemented by all major browser makers and covers two primary areas:**
+
+***1. MAKING A MODEL OF THE HTML PAGE(DOM tree)<br>2. ACCESSING AND CHANGING THE HTML PAGE(API)***
+
+### THE DOM TREE IS A MODEL OF A WEB PAGE
+
+![img](../img/dom.jpg)
+ 
+
