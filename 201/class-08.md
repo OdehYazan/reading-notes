@@ -45,3 +45,9 @@ containing box, and it becam a block element.**
 **Fixed width layout designs do not change size as the user increases or decreases the size of their browser window.**
 
 ![fixdLayout](../img/fixdLayout.jpg)
+
+## Liquid Layouts
+
+**Liquid layout designs stretch and contract as the user increases or decreases the size of their browser window. They tend to use percentages.**
+
+![leqLayout](../img/leqLayout.jpg)
