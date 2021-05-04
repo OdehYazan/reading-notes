@@ -9,5 +9,21 @@
 
  **Containing Elements, If one block-level element sits inside another block-level element then the outer box is known as the containing or parent element we usually group elemnts in `<div>` element that contains this group of elements is then referred to as the containing element.**
 
- ![table1](../img/div.jpg)
+ ![table1](../img/div.jpg) 
+
  ***the `<div>` is orange border***
+
+## How to control the postion of elements ?
+
+**CSS has positioning schemes that allow you to control the layout of a page.<br> 1 .Normal flow, Every block-level element
+appears on a new line this is the default behavior unless you tell the browser to do something else.<br> 2 .Relative Positioning, this moves an element from the position it would be in normal flow shifting it to the top, right,bottom, or left of where it without affecting the position of surrounding elements.<br> 3.Absolute positioning, This positions the element in relation to its containing element and it move as users scroll up and down the page.**
+
+![elemntPosition](../img/elemntPosition.jpg)
+
+## Box offset
+
+**We use Box offset properties To indicate where a box should be positioned telling the browser how far from the top or bottom and left or right it should be placed.<br> 1. Fixed Positioning, This is a form of absolute positioning that positions the element in relation to the browser window,fixed positioning do not affect the position of surrounding elements and they do not move when the user scrolls up or down the page.<br> 2 . Floating Elements, Floating an element allows you to take that element out of normal flow and position
+it to the far left or right of a
+containing box, and it becam a block element.**
+
+![boxOffset](../img/boxOffset.jpg)
