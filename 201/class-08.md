@@ -27,3 +27,21 @@ it to the far left or right of a
 containing box, and it becam a block element.**
 
 ![boxOffset](../img/boxOffset.jpg)
+
+## Screen Sizes
+
+**Different visitors to your site will have different sized screens that show different amounts of information, so your design needs to be able to work on a range of different sized screens.**
+
+## Screen Resolution
+
+**Resolution refers to the number of dots a screen shows per inch. Some devices have a higher resolution than desktop computers and most operating systems allow users to adjust the resolution of their screens.**
+
+## Page Sizes
+
+**Screen sizes and display resolutions vary so much, so web designers often try to create pages of around 960-1000 pixels wide.**
+
+## Fixed Width Layouts
+
+**Fixed width layout designs do not change size as the user increases or decreases the size of their browser window.**
+
+![fixdLayout](../img/fixdLayout.jpg)
