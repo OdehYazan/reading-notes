@@ -25,4 +25,4 @@
  |Read:06|[JS Object Literals; The DOM](https://odehyazan.github.io/reading-notes/201/class-06)
  |Read:07|[Object-Oriented Programming, HTML Tables](https://odehyazan.github.io/reading-notes/201/class-07)
  |Read:08|[CSS Layout](https://odehyazan.github.io/reading-notes/201/class-08)
- |Read:09|[Forms and JS Events](https://odehyazan.github.io/reading-notes/201/class-08)
+ |Read:09|[Forms and JS Events](https://odehyazan.github.io/reading-notes/201/class-09)
