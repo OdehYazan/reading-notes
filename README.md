@@ -26,3 +26,4 @@
  |Read:07|[Object-Oriented Programming, HTML Tables](https://odehyazan.github.io/reading-notes/201/class-07)
  |Read:08|[CSS Layout](https://odehyazan.github.io/reading-notes/201/class-08)
  |Read:09|[Forms and JS Events](https://odehyazan.github.io/reading-notes/201/class-09)
+|Read:10|[Debugging](https://odehyazan.github.io/reading-notes/201/class-10)
