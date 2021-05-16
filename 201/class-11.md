@@ -19,3 +19,22 @@
 ## Centering images Using CSS
 
 ![images](../img/img17.jpg)
+
+## Background Images
+
+**The background-image property allows you to place an image behind any HTML element. This could be the entire page or just part of the page. By default, a background image will repeat to fill the entire box, the path to the image follows the letters `url`, and it is put inside parentheses and quotes.**
+
+## Repeating Images
+
+### Background-repeat
+
+### Background-attachment
+
+**The background-repeat property can have four values:<br> `repeat` The background image is repeated both horizontally and vertically (the default way it is shown if the background repeat property isn't used `repeat-x` The image is repeated horizontally only (as shown in the first example on the left). `repeat-y` The image is repeated vertically only `no-repeat` The image is only shown once.<br> The background-attachment property specifies whether a background image should stay in one position or move as the user scrolls up and down the page. It can have one of two values:<br> `fixed` The background image stays in the same position on the page.`scroll` The background image moves up and down as the user scrolls up and down the page.**
+
+## Background Position
+
+**When an image is not being repeated, you can use the background-position property to specify where in the browser window the background image should be placed This property usually has a pair of values.<br> The first represents the horizontal position and the second represents the vertical.<br> left top<br> left center<br> left bottom<br> center top<br> center center<br> center bottom<br> right top<br> right center<br> right bottom.**
+
+![images](../img/img18.jpg)
+
