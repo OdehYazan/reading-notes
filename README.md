@@ -28,3 +28,4 @@
  |Read:09|[Forms and JS Events](https://odehyazan.github.io/reading-notes/201/class-09)
 |Read:10|[Debugging](https://odehyazan.github.io/reading-notes/201/class-10)
 |Read:11|[Audio, Video, Images](https://odehyazan.github.io/reading-notes/201/class-11)
+|Read:12|[Chart.js, Canvas]((https://odehyazan.github.io/reading-notes/201/class-12))
