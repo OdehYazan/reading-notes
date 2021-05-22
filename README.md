@@ -30,3 +30,5 @@
 |Read:11|[Audio, Video, Images](https://odehyazan.github.io/reading-notes/201/class-11)
 |Read:12|[Chart.js, Canvas](https://odehyazan.github.io/reading-notes/201/class-12)
 |Read:13|[LOCAL STORAGE FOR WEB APPLICATIONS](https://odehyazan.github.io/reading-notes/201/class-13)
+|Read:14a|[CSS Transforms, Transitions, and Animations](https://odehyazan.github.io/reading-notes/201/class-14a)
+|Read:14b|[What Google Learned About Teams](https://odehyazan.github.io/reading-notes/201/class-14b)

@@ -1,5 +1,7 @@
 # Debugging
 
+[Reading-notes](https://odehyazan.github.io/reading-notes/)
+
 **JavaScript can be hard to learn and everyone makes mistakes when writing it. now how to find the errors in your code. and we will  also learn you how to write scripts that deal with potential errors gracefully.**
 
 **When writing a long script, nobody gets everything right in their first attempt. The error messages that a browser gives look cryptic at first, but they can help you determine what went wrong in your JavaScript and how to fix it. In this read we will learn about:<br/><br>1.THE CONSOLE & DEV TOOLS Tools built into the browser that help you hunt for errors.<br>2.COMMON PROBLEMS Common sources of errors, and how to solve them.<br>3.HANDLING ERRORS How code can deal with potential errors gracefully.**
