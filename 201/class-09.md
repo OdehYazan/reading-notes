@@ -34,18 +34,18 @@
 
  ![table1](../img/img38.jpg)
 
- #### Text Input
+#### Text Input
 
  ![text](https://miro.medium.com/max/5680/1*rnFktAV2cduHwin0hxN_dA.png)
 
- #### Password Input
+#### Password Input
 
  ![pass](https://miro.medium.com/max/5756/1*1fVMQW2rMDXXAGaTdIOmyQ.png)
 
- #### Checkbox, Radio  Input
+#### Checkbox, Radio  Input
 
  ![check](https://miro.medium.com/max/5760/1*5J2jxDwc3fkyBQ5C4XP4yw.png)
 
- #### date,Email and Number Input
+#### date,Email and Number Input
 
  ![check](https://miro.medium.com/max/5760/1*DkzUfKut64-XjrDABFsqrA.png)
