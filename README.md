@@ -32,3 +32,7 @@
 |Read:13|[LOCAL STORAGE FOR WEB APPLICATIONS](https://odehyazan.github.io/reading-notes/201/class-13)
 |Read:14a|[CSS Transforms, Transitions, and Animations](https://odehyazan.github.io/reading-notes/201/class-14a)
 |Read:14b|[What Google Learned About Teams](https://odehyazan.github.io/reading-notes/201/class-14b)
+
+|301|Links|
+|--------|--------|
+|Read:02|[State and Props](https://odehyazan.github.io/reading-notes/301/class-02)|
