@@ -1,4 +1,5 @@
 # State and Props
+[Reading-notes](https://odehyazan.github.io/reading-notes/)
 
 ## Component Lifecycle Events
 
