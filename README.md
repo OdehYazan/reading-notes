@@ -36,4 +36,5 @@
 |301|Links|
 |--------|--------|
 |Read:02|[State and Props](https://odehyazan.github.io/reading-notes/301/class-02)|
-|Read:03|[Passing Functions as Props](https://odehyazan.github.io/reading-notes/301/class-03)
+|Read:03|[Passing Functions as Props](https://odehyazan.github.io/reading-notes/301/class-03)|
+|Read:07|[Readings: REST](https://odehyazan.github.io/reading-notes/301/class-07)|
