@@ -39,3 +39,4 @@
 |Read:03|[Passing Functions as Props](https://odehyazan.github.io/reading-notes/301/class-03)|
 |Read:07|[REST](https://odehyazan.github.io/reading-notes/301/class-07)|
 |Read:07|[APIs](https://odehyazan.github.io/reading-notes/301/class-08)|
+|Read:07|[In memory storage](https://odehyazan.github.io/reading-notes/301/class-10)|
