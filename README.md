@@ -4,9 +4,11 @@
 
 ## Major: Computer Engineering
 
+## This website have the readings note of the web developer course with vary and important topics you need to get along with this course.
+
 ## GitHub : [https://github.com/OdehYazan](https://github.com/OdehYazan)
 
- |Readings 101+102|  Readings 101+102     |
+ |Code 101+102 |  Intro to Software Development  |
  |--------|--------|
  |[Growth mindset](https://odehyazan.github.io/reading-notes/102/mind)|[Read01](https://odehyazan.github.io/reading-notes/102/Read:01-LearningMarkdown)|
 |[Read02](https://odehyazan.github.io/reading-notes/102/Read:02-RevisionsandtheCloud)| [Read03](https://odehyazan.github.io/reading-notes/102/Read:03-StructurewebpageswithHTML)|
@@ -15,7 +17,7 @@
 |[Read05](https://odehyazan.github.io/reading-notes/102/Read:05)|[Read06](https://odehyazan.github.io/reading-notes/102/Read:06) |
 |[Read07](https://odehyazan.github.io/reading-notes/102/Read:07)|[Read09](https://odehyazan.github.io/reading-notes/102/Read:09)|
 
-|Readings 201|     Links   |
+|Code 201|Foundations of Software Development|
  |--------|--------|
  |Read:01|[Introductory HTML and JavaScript](https://odehyazan.github.io/reading-notes/201/class-01)|
  |Read:02|[HTML Text,CSS Introduction,and Basic JavaScript Instructions](https://odehyazan.github.io/reading-notes/201/class-02)|
@@ -33,7 +35,7 @@
 |Read:14a|[CSS Transforms, Transitions, and Animations](https://odehyazan.github.io/reading-notes/201/class-14a)
 |Read:14b|[What Google Learned About Teams](https://odehyazan.github.io/reading-notes/201/class-14b)
 
-|301|Links|
+|Code 301|Intermediate Software Development|
 |--------|--------|
 |Read:02|[State and Props](https://odehyazan.github.io/reading-notes/301/class-02)|
 |Read:03|[Passing Functions as Props](https://odehyazan.github.io/reading-notes/301/class-03)|
