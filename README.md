@@ -43,5 +43,6 @@
 |Read:04|[React and Forms](https://odehyazan.github.io/reading-notes/301/class-04)|
 |Read:05|[Putting it all together](https://odehyazan.github.io/reading-notes/301/class-05)|
 |Read:07|[REST](https://odehyazan.github.io/reading-notes/301/class-07)|
-|Read:07|[APIs](https://odehyazan.github.io/reading-notes/301/class-08)|
-|Read:07|[In memory storage](https://odehyazan.github.io/reading-notes/301/class-10)|
+|Read:08|[APIs](https://odehyazan.github.io/reading-notes/301/class-08)|
+|Read:10|[In memory storage](https://odehyazan.github.io/reading-notes/301/class-10)|
+|Read:11|[Authentication](https://odehyazan.github.io/reading-notes/301/class-11)|
