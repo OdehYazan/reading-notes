@@ -2,7 +2,7 @@
 
 [Reading-notes](https://odehyazan.github.io/reading-notes/)
 
-## Fill in the chart below with five differences between SQL and NoSQL databases:
+## Fill in the chart below with five differences between SQL and NoSQL databases
 
 |---------------|-------------|
 |SQL|NoSQL|
@@ -30,7 +30,7 @@
 6. Requires distributed computing and storage
 7. No Data Warehouse, Analytics or BI use cases
 
-## Give a real world example.
+## Give a real world example
 
 **Twitter,Facebook.**
 
@@ -41,3 +41,39 @@
 ## Which type of database is best for scalability?
 
 **SQL based databases.**
+
+## What does SQL stand for?
+
+**Structured Query Language.**
+
+## What is a relational database?
+
+**A relational database is a type of database that stores and provides access to data points that are related to one another. Relational databases are based on the relational model, an intuitive, straightforward way of representing data in tables.**
+
+## What type of structure does a relational database work with?
+
+ **Logical Data Structure.**
+ 
+## What is a ‘schema’?
+
+**The database schema is its structure described in a formal language supported by the database management system. The term "schema" refers to the organization of data as a blueprint of how the database is constructed.**
+
+## What is a NoSQL database?
+
+**NoSQL is a type of database that stores and retrieves data without needing to define its structure first.**
+
+## How does it work?
+
+**NoSQL databases use a variety of data models for accessing and managing data. These types of databases are optimized specifically for applications that require large data volume, low latency, and flexible data models, which are achieved by relaxing some of the data consistency restrictions of other databases.**
+
+## What is inside of a Mongo database?
+
+**Records as documents (specifically BSON documents).**
+
+## Which is more flexible - SQL or MongoDB? and why?
+
+**MongoDB because of non-relational database but this cost some safety.**
+
+## What is the disadvantage of a NoSQL database?
+
+**The non-relational database greatly increases access time and scalability, it may lead to data loss.**
