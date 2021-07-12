@@ -46,3 +46,4 @@
 |Read:08|[APIs](https://odehyazan.github.io/reading-notes/301/class-08)|
 |Read:10|[In memory storage](https://odehyazan.github.io/reading-notes/301/class-10)|
 |Read:11|[Authentication](https://odehyazan.github.io/reading-notes/301/class-11)|
+|Read:12|[Mongo and Mongoose](https://odehyazan.github.io/reading-notes/301/class-12)|
