@@ -42,6 +42,7 @@
 |Read:03|[Passing Functions as Props](https://odehyazan.github.io/reading-notes/301/class-03)|
 |Read:04|[React and Forms](https://odehyazan.github.io/reading-notes/301/class-04)|
 |Read:05|[Putting it all together](https://odehyazan.github.io/reading-notes/301/class-05)|
+|Read:06|[NODE.JS](https://odehyazan.github.io/reading-notes/301/class-06)|
 |Read:07|[REST](https://odehyazan.github.io/reading-notes/301/class-07)|
 |Read:08|[APIs](https://odehyazan.github.io/reading-notes/301/class-08)|
 |Read:10|[In memory storage](https://odehyazan.github.io/reading-notes/301/class-10)|
