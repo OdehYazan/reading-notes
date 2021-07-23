@@ -50,3 +50,4 @@
 |Read:11|[Authentication](https://odehyazan.github.io/reading-notes/301/class-11)|
 |Read:12|[Mongo and Mongoose](https://odehyazan.github.io/reading-notes/301/class-12)|
 |Read:13|[CRUD](https://odehyazan.github.io/reading-notes/301/class-13)|
+|||
