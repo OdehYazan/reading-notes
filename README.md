@@ -45,6 +45,7 @@
 |Read:06|[NODE.JS](https://odehyazan.github.io/reading-notes/301/class-06)|
 |Read:07|[REST](https://odehyazan.github.io/reading-notes/301/class-07)|
 |Read:08|[APIs](https://odehyazan.github.io/reading-notes/301/class-08)|
+|Read:09|[FUNCTIONAL PROGRAMMING](https://odehyazan.github.io/reading-notes/301/class-09)|
 |Read:10|[In memory storage](https://odehyazan.github.io/reading-notes/301/class-10)|
 |Read:11|[Authentication](https://odehyazan.github.io/reading-notes/301/class-11)|
 |Read:12|[Mongo and Mongoose](https://odehyazan.github.io/reading-notes/301/class-12)|
