@@ -1,3 +1,5 @@
+[Reading-notes](https://odehyazan.github.io/reading-notes/)
+
 # Java Basics
 
 ## Variables
@@ -50,4 +52,25 @@
 ## Control Flow Statements
 
 **The statements inside your source files are generally executed from top to bottom, in the order that they appear. Control flow statements, however, break up the flow of execution by employing decision making, looping, and branching, enabling your program to conditionally execute particular blocks of code. This section describes the decision-making statements (if-then, if-then-else, switch), the looping statements (for, while, do-while), and the branching statements (break, continue, return) supported by the Java programming language.**
+
+## Compiling
+
+**When the computer runs a program, the program itself is made of a bunch of 1's and 0's.**
+
+**However, since we still need humans to write our programs, putting everything in 1's and 0's (called machine language) would be very difficult. So we made higher level languages like Java and C# to write code in. These languages look a lot more like English, so they're a lot easier to write and maintain.**
+
+**When you compile code, the compiler (usually another program) takes the program the human wrote, and converts it into the program the computer can understand (i.e. converts from Java to machine language). The very short version could be, yes, compile means to make the code executable.**
+
+**Something you may run into is people saying code does or does not compile. This means the compiler they used checks to make sure their program is written correctly according to the rules of the programming language. For example, most programming languages make you put a semicolon `(;)` at the end of every line. A very common mistake is to forget that semicolon, so when you try and compile the compiler gives you an error.**
+
+**It's also important to note that just because the code compiles doesn't mean it works. It's sort of like how 3 + 4 < 5 is an equation that has the right form, but it is incorrect.**
+
+## Java Documentation
+
+[Java Documentation](https://www.dummies.com/programming/java/making-sense-of-javas-api-documentation/)
+
+**Once upon a time, people judged programming languages (including Java) solely by their grammatical features. Does an if statement do what you expect it to do? Are looping statements easy to use? Are methods implemented efficiently?**
+
+**Nowadays, things are a bit different. Java has a whole collection of grammatical features, but Java is much more than just a big set of grammar rules. Java has a standard Application Programming Interface —a huge library consisting of over 4,000 classes, each with its own functionality, its own limitations, and its own rules for effective use.**
+
 
