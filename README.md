@@ -54,3 +54,4 @@
 |Code 401|Advanced Software Development|
 |--------|--------|
 |Read:1|[Java Basics](https://odehyazan.github.io/reading-notes/401/read-1)|
+|Read:2|[Arrays, Loops, Imports](https://odehyazan.github.io/reading-notes/401/read-2)|
