@@ -31,6 +31,7 @@
 ![Imports](../401img/import.jpg)
 
 ### Common imports
+
 |-----|-----|
 |import java.awt.*;|Common GUI elements.|
 |import java.awt.event.*;|The most common GUI event listeners.|
@@ -39,3 +40,30 @@
 |import java.io.*;|Input-output classes.|
 |import java.text.*|Some formatting classes.|
 |import java.util.regex.*;|Regular expression classes.|
+
+## Java Loops
+
+**types of loops that we can find in Java:**
+**1. Simple for loop.**
+**2. Enhanced for-each loop.**
+**3. While loop.**
+**. Do-While loop.**
+
+### For Loop
+
+**A for loop is a control structure that allows us to repeat certain operations by incrementing and evaluating a loop counter.**
+
+### While Loop
+
+**The while loop is Java's most fundamental loop statement. It repeats a statement or a block of statements while its controlling Boolean-expression is true.**
+
+`int i = 0;`
+`while (i < 5) {`
+   `System.out.println("While loop: i = " + i++);`
+`}`
+
+### Do-While Loop
+
+**The do-while loop works just like the while loop except for the fact that the first condition evaluation happens after the first iteration of the loop.**
+
+[](http://javatutoring.com/wp-content/uploads/2016/12/Java-Do-While.jpg)
