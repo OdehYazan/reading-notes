@@ -66,4 +66,4 @@
 
 **The do-while loop works just like the while loop except for the fact that the first condition evaluation happens after the first iteration of the loop.**
 
-[](http://javatutoring.com/wp-content/uploads/2016/12/Java-Do-While.jpg)
+
