@@ -57,3 +57,4 @@
 |Read:2|[Arrays, Loops, Imports](https://odehyazan.github.io/reading-notes/401/read-2)|
 |Read:3|[Maps, primitives, File I/O](https://odehyazan.github.io/reading-notes/401/read-3)|
 |Read:4|[OOP](https://odehyazan.github.io/reading-notes/401/read-4)|
+|Read:5|[Linked Lists](https://odehyazan.github.io/reading-notes/401/read-5)|
