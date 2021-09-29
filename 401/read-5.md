@@ -51,7 +51,7 @@
 
 ***Traversal Big O***
 
-**The Big O of ***time*** for Includes would be O(n). This is because, at its worse case, the node we are looking for will be the very last node in the linked list. n represents the number of nodes in the linked list.**
+**The Big O of time for Includes would be O(n). This is because, at its worse case, the node we are looking for will be the very last node in the linked list. n represents the number of nodes in the linked list.**
 
-**The Big O of space for Includes would be O(1). This is because there is no additional ***space*** being used than what is already given to us with the linked list input.**
+**The Big O of space for Includes would be O(1). This is because there is no additional space being used than what is already given to us with the linked list input.**
 
