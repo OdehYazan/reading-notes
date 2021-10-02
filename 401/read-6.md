@@ -20,32 +20,43 @@
 
 **Syntax :**
 
-**`class derived-class extends base-class`**
-**`{`**
-**`//methods and fields`**
-**`}`**
+**`class derived-class extends base-class`**<br/>
+**`{`**<br/>
+**`//methods and fields`**<br/>
+**`}`**<br/>
 
 ![inheritance](https://media.geeksforgeeks.org/wp-content/uploads/inheritence1.png)
+<br/>
 
 ### Types of Inheritance in Java
 
 **1. Single Inheritance: In single inheritance, subclasses inherit the features of one superclass. In the image below, class A serves as a base class for the derived class B.**
+<br/>
 ![single](https://media.geeksforgeeks.org/wp-content/uploads/inheritance1.png)
 
-**2. Multilevel Inheritance: In Multilevel Inheritance, a derived class will be inheriting a base class and as well as the derived class also act as the base class to other class. In the below image, class A serves as a base class for the derived class B, which in turn serves as a base class for the derived class C. In Java, a class cannot directly access the grandparent’s members.**
+<br/>
 
+**2. Multilevel Inheritance: In Multilevel Inheritance, a derived class will be inheriting a base class and as well as the derived class also act as the base class to other class. In the below image, class A serves as a base class for the derived class B, which in turn serves as a base class for the derived class C. In Java, a class cannot directly access the grandparent’s members.**
+<br/>
 ![mul](https://media.geeksforgeeks.org/wp-content/uploads/inheritance3.png)
+<br/>
 
 **3. Hierarchical Inheritance: In Hierarchical Inheritance, one class serves as a superclass (base class) for more than one subclass. In the below image, class A serves as a base class for the derived class B, C and D.**
+<br/>
 ![h](https://media.geeksforgeeks.org/wp-content/uploads/20210311224500/Untitled-300x269.png)
+<br/>
 
 **4. Multiple Inheritance (Through Interfaces): In Multiple inheritances, one class can have more than one superclass and inherit features from all parent classes. Please note that Java does not support multiple inheritances with classes. In java, we can achieve multiple inheritances only through Interfaces. In the image below, Class C is derived from interface A and B.**
+<br/>
 
 ![multiple](https://media.geeksforgeeks.org/wp-content/uploads/inheritance2-1.png)
+<br/>
 
 **5. Hybrid Inheritance(Through Interfaces): It is a mix of two or more of the above types of inheritance. Since java doesn’t support multiple inheritances with classes, hybrid inheritance is also not possible with classes. In java, we can achieve hybrid inheritance only through Interfaces.**
+<br/>
 
 ![hyb](https://media.geeksforgeeks.org/wp-content/uploads/inheritance-1.png)
+<br/>
 
 ## Interfaces
 
@@ -61,11 +72,11 @@
 
 **Syntax :**
 
-**`interface <interface_name> {`**
-    **`// declare constant fields`**
-    **`// declare methods that abstract`**
-    **`// by default.`**
-**`}`**
+**`interface <interface_name> {`**<br/>
+    **`// declare constant fields`**<br/>
+    **`// declare methods that abstract`**<br/>
+    **`// by default.`**<br/>
+**`}`**<br/>
 
 **To declare an interface, use interface keyword. It is used to provide total abstraction. That means all the methods in an interface are declared with an empty body and are public and all fields are public, static and final by default. A class that implements an interface must implement all the methods declared in the interface. To implement interface use implements keyword.**
 
