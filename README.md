@@ -58,3 +58,4 @@
 |Read:3|[Maps, primitives, File I/O](https://odehyazan.github.io/reading-notes/401/read-3)|
 |Read:4|[OOP](https://odehyazan.github.io/reading-notes/401/read-4)|
 |Read:5|[Linked Lists](https://odehyazan.github.io/reading-notes/401/read-5)|
+|Read:6|[Inheritance & Interfaces](https://odehyazan.github.io/reading-notes/401/read-6)|
