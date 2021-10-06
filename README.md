@@ -60,3 +60,4 @@
 |Read:5|[Linked Lists](https://odehyazan.github.io/reading-notes/401/read-5)|
 |Read:6|[Inheritance & Interfaces](https://odehyazan.github.io/reading-notes/401/read-6)|
 |Read:9|[WRRC and Java](https://odehyazan.github.io/reading-notes/401/read-9)|
+|Read:10|[Stacks and Queues](https://odehyazan.github.io/reading-notes/401/read-10)|
