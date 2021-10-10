@@ -59,6 +59,7 @@
 |Read:4|[OOP](https://odehyazan.github.io/reading-notes/401/read-4)|
 |Read:5|[Linked Lists](https://odehyazan.github.io/reading-notes/401/read-5)|
 |Read:6|[Inheritance & Interfaces](https://odehyazan.github.io/reading-notes/401/read-6)|
+|Read:8|[General code design principles:](https://odehyazan.github.io/reading-notes/401/read-8)|
 |Read:9|[WRRC and Java](https://odehyazan.github.io/reading-notes/401/read-9)|
 |Read:10|[Stacks and Queues](https://odehyazan.github.io/reading-notes/401/read-10)|
-
+|Read:11|[Spring](https://odehyazan.github.io/reading-notes/401/read-11)|
