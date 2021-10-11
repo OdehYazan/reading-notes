@@ -10,11 +10,11 @@
 
 **1. @RequestMapping — by Path.**
 
-**`@RequestMapping(value = "/ex/foos", method = RequestMethod.GET)`**
-   **`@ResponseBody`**
-   **`public String getFoosBySimplePath() {`**
-    **`return "Get some Foos";`**
-**`}`**
+**`@RequestMapping(value = "/ex/foos", method = RequestMethod.GET)`**<br>
+   **`@ResponseBody`**<br>
+   **`public String getFoosBySimplePath() {`**<br>
+    **`return "Get some Foos";`**<br>
+**`}`**<br>
 
 **2. @RequestMapping — the HTTP Method.**
 
@@ -22,31 +22,31 @@
 
  **Here's a simple example, similar to the previous one, but this time mapped to an HTTP POST request:**
 
- **`@RequestMapping(value = "/ex/foos", method = POST)`**
-   **`@ResponseBody`**
-   **`public String postFoos() {`**
-    **`return "Post some Foos";`**
-**`}`**
+ **`@RequestMapping(value = "/ex/foos", method = POST)`**<br>
+   **`@ResponseBody`**<br>
+   **`public String postFoos() {`**<br>
+    **`return "Post some Foos";`**<br>
+**`}`**<br>
 
 ### RequestMapping and HTTP Headers
 
 **1. @RequestMapping With the headers Attribute.**
 **The mapping can be narrowed even further by specifying a header for the request:**
 
- **`@RequestMapping(value = "/ex/foos", headers = "key=val", method = GET)`**
-   **`@ResponseBody`**
-   **`public String getFoosWithHeader() {`**
-    **`return "Get some Foos with Header";`**
-**`}`**
+ **`@RequestMapping(value = "/ex/foos", headers = "key=val", method = GET)`**<br>
+   **`@ResponseBody`**<br>
+   **`public String getFoosWithHeader() {`**<br>
+    **`return "Get some Foos with Header";`**<br>
+**`}`**<br>
 
 **and even multiple headers via the headers attribute of @RequestMapping:**
 
-**`@RequestMapping(`**
-  **`value = "/ex/foos",`**
-  **`headers = { "key1=val1", "key2=val2" }, method = GET)`**
-   **`@ResponseBody`**
-**`public String getFoosWithHeaders() {`**
-   **`return "Get some Foos with Header";`**
+**`@RequestMapping(`**<br>
+  **`value = "/ex/foos",`**<br>
+  **`headers = { "key1=val1", "key2=val2" }, method = GET)`**<br>
+   **`@ResponseBody`**<br>
+**`public String getFoosWithHeaders() {`**<br>
+   **`return "Get some Foos with Header";`**<br>
 **`}`**
 **2. @RequestMapping Consumes and Produces.**
 
