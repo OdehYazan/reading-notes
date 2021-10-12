@@ -64,3 +64,4 @@
 |Read:10|[Stacks and Queues](https://odehyazan.github.io/reading-notes/401/read-10)|
 |Read:11|[Spring](https://odehyazan.github.io/reading-notes/401/read-11)|
 |Read:12|[Spring RESTful Routing & Static Files](https://odehyazan.github.io/reading-notes/401/read-12)|
+|Read:13|[Related Resources and Integration Testing](https://odehyazan.github.io/reading-notes/401/read-13)|
