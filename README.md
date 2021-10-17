@@ -67,4 +67,4 @@
 |Read:13|[Related Resources and Integration Testing](https://odehyazan.github.io/reading-notes/401/read-13)|
 |Read:15|[Trees](https://odehyazan.github.io/reading-notes/401/read-15)|
 |Read:16|[Spring Authentication](https://odehyazan.github.io/reading-notes/401/read-16)|
-
+|Read:17|[Spring Authentication_2](https://odehyazan.github.io/reading-notes/401/read-17)|
