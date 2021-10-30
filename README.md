@@ -68,3 +68,4 @@
 |Read:15|[Trees](https://odehyazan.github.io/reading-notes/401/read-15)|
 |Read:16|[Spring Authentication](https://odehyazan.github.io/reading-notes/401/read-16)|
 |Read:17|[Spring Authentication_2](https://odehyazan.github.io/reading-notes/401/read-17)|
+|Read:26|[Android fundamentals](https://odehyazan.github.io/reading-notes/401/read-26)|
