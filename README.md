@@ -70,3 +70,4 @@
 |Read:17|[Spring Authentication_2](https://odehyazan.github.io/reading-notes/401/read-17)|
 |Read:26|[Android fundamentals](https://odehyazan.github.io/reading-notes/401/read-26)|
 |Read:27|[Intents, Activities, and SharedPreferences](https://odehyazan.github.io/reading-notes/401/read-27)|
+|Read:28|[RecyclerView for displaying lists of data](https://odehyazan.github.io/reading-notes/401/read-28)|
