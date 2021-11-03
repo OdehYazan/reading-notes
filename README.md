@@ -71,3 +71,4 @@
 |Read:26|[Android fundamentals](https://odehyazan.github.io/reading-notes/401/read-26)|
 |Read:27|[Intents, Activities, and SharedPreferences](https://odehyazan.github.io/reading-notes/401/read-27)|
 |Read:28|[Create dynamic lists with RecyclerView](https://odehyazan.github.io/reading-notes/401/read-28)|
+|Read:29|[Room](https://odehyazan.github.io/reading-notes/401/read-29)|
