@@ -44,6 +44,7 @@ Scaling process for Serverless is automatic and seamless, so there is a lack of 
 It’s a tie between Serverless and Traditional Architecture.
 
 ### Functions as a Service (FaaS)
+
 **FaaS** is an implementation of Serverless architectures where engineers can deploy an individual function or a piece of business logic.
 
 - **Principles of FaaS:**
@@ -52,6 +53,7 @@ It’s a tie between Serverless and Traditional Architecture.
 - Event-driven and instantaneously scalable
 
 ### The Serverless App
+
 A Serverless app consists of a web server, Lambda functions (FaaS), security token service (STS), user authentication and database.
 
 - **Client Application** —  client side UI.
@@ -72,7 +74,6 @@ A Serverless app consists of a web server, Lambda functions (FaaS), security tok
 - Seamlessly connect frontends.
 - Deploy in a few clicks.
 - Easily manage content.
-
 
 - **For example:**
 

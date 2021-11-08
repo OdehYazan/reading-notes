@@ -75,3 +75,4 @@
 |Read:30|[Hashtables](https://odehyazan.github.io/reading-notes/401/read-30)|
 |Read:31|[Espresso](https://odehyazan.github.io/reading-notes/401/read-31)|
 |Read:32|[Serverless and Amplify](https://odehyazan.github.io/reading-notes/401/read32)|
+|Read:33|[GraphQL @connection](https://odehyazan.github.io/reading-notes/401/read-33)|
