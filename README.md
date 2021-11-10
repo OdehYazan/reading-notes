@@ -77,4 +77,5 @@
 |Read:32|[Serverless and Amplify](https://odehyazan.github.io/reading-notes/401/read32)|
 |Read:33|[GraphQL @connection](https://odehyazan.github.io/reading-notes/401/read-33)|
 |Read:34|[Monetization](https://odehyazan.github.io/reading-notes/401/read-34)|
-|Read:35|[Graphs](https://odehyazan.github.io/reading-notes/401/read-35)|
+|Read:35|[Monetization](https://odehyazan.github.io/reading-notes/401/read-35)|
+
