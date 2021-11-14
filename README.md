@@ -79,3 +79,4 @@
 |Read:34|[Monetization](https://odehyazan.github.io/reading-notes/401/read-34)|
 |Read:35|[Graphs](https://odehyazan.github.io/reading-notes/401/read-35)|
 |Read:36|[Cognito](https://odehyazan.github.io/reading-notes/401/read-36)|
+|Read:37|[Amazon S3](https://odehyazan.github.io/reading-notes/401/read-37)|
