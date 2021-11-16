@@ -26,7 +26,8 @@ Amplify.addPlugin(new AWSPinpointAnalyticsPlugin(this));
 
 ## Record events
 
-```AnalyticsEvent event = AnalyticsEvent.builder()
+```java
+AnalyticsEvent event = AnalyticsEvent.builder()
     .name("PasswordReset")
     .addProperty("Channel", "SMS")
     .addProperty("Successful", true)
