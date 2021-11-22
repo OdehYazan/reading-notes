@@ -84,3 +84,4 @@
 |Read:39|[Kinesis](https://odehyazan.github.io/reading-notes/401/read-39)|
 |Read:41|[Intent Filters](https://odehyazan.github.io/reading-notes/401/read41)|
 |Read:42|[Location](https://odehyazan.github.io/reading-notes/401/read-42)|
+Read:42-2|[Ethics in Tech](https://odehyazan.github.io/reading-notes/401/read-42-2)|
